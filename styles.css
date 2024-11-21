@@ -1,0 +1,79 @@
+body {
+
+    background: #7c9c7d;
+    color: #ffffff;
+    margin: 0px;
+    font-family: "Gowun Dodum", sans-serif;
+      
+      
+}
+
+header {
+
+
+    border-bottom: solid 3px #235908e6; 
+   padding: 20px;
+   font-size: xx-large;
+font-style:oblique ;
+color: #1f4f07;
+}
+
+.titulo{
+
+   background: #5c795d; 
+
+   padding-bottom: 80px;
+   padding-top: 80px;
+   display: flex;
+   justify-content: center;
+}
+
+.chamada_texto {
+
+ margin-right: 5%;
+
+
+}
+
+h1{
+
+    font-size: 40px;
+}
+
+p{
+
+
+    font-size: 20px;
+}
+
+
+.categoria_{
+display: flex;
+overflow-x: auto;
+gap: 20px;
+}
+
+.categorias{
+
+    padding-left: 500px;
+    padding-right: 500px;
+}
+
+    .categoria_ img {
+
+opacity: 0.5 ;
+height: 150px;
+    }
+
+    .categoria_ img:hover {
+
+
+opacity: 1.0 ;
+border: 2px solid #1f4f07 ;
+    }
+
+    .categorias h2 {
+
+        color: #1f4f07;
+        font-style: oblique ;
+    }
